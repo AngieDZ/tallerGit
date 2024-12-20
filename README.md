@@ -1,2 +1,2 @@
 # tallerGit
-Paguna Web
+Pagina Web
